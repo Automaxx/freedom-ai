@@ -10,7 +10,7 @@
 ## 🔗 Experience True AI Freedom
 👉 **[dadgpt.live](https://dadgpt.live)** — AI without boundaries.
 
-## Why Freedom AI?
+## Why Freedom AI
 
 Modern AI chatbots are heavily censored by corporations and governments. Freedom AI removes those chains:
 
