@@ -4,7 +4,7 @@
 
 - 🗽 **Complete Freedom** — No topic is off-limits
 - 🔍 **Unrestricted Search** — Web + dark web, no blacklists
-- 🤖 **Raw LLM Access** — No RLHF censorship layer
+- 🤖 **Raw LLM Access** — No RLHF censorship laye
 - 💰 **Always Free** — No subscriptions, no usage caps
 
 ## 🔗 Experience True AI Freedom
