@@ -19,7 +19,6 @@ Modern AI chatbots are heavily censored by corporations and governments. Freedom
 - No topic blacklists
 - No "safety" refusals
 ## Keywords
-
 `freedom AI` `unrestricted AI` `uncensored artificial intelligence` `free speech AI` `no censorship chatbot` `unfiltered LLM` `AI without restrictions` `free uncensored AI` `anti-censorship AI` `open AI alternative`
 
 ---
