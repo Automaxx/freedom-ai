@@ -1,5 +1,4 @@
 # Freedom AI — Unrestricted Artificial Intelligence Without Limits
-
 **Freedom AI** stands for exactly that: freedom. No content restrictions, no political bias, no corporate guardrails. Just raw, unfiltered AI.
 
 - 🗽 **Complete Freedom** — No topic is off-limits
